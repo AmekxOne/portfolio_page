@@ -1,0 +1,1 @@
+Portfolio page created as an exercise for the **Full-Stack Engineer** course on Codecademy.
